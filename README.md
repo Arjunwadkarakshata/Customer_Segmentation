@@ -3,7 +3,7 @@
 The aim of this project is to segment a credit card users based on their usage characteristics. Which can be used by marketing 
 department to tailor products and services specific to these customer segments.
 
-
+# Data Summary 
 CUSTID: Identification of Credit Card holder
 BALANCE: Balance amount left in customer's account to make purchases
 BALANCE_FREQUENCY: How frequently the Balance is updated, score between 0 and 1 (1 = frequently updated, 0 = not frequently updated)
@@ -32,3 +32,5 @@ inside
 # Properties of KMean Clutering:
 1)all the data points in cluster should be similer to each other
 2)data points from different culster should be as different as possible.
+
+# Finally we are able to segment credit card users into 4 cluters based on their characteristics. Which can help marketing department to give discounts on expensive products so that they are attracted to buy more stuff. Also company can focus on not to losing them. Also focus on the such customers with the schemes that make them comfortable to make purchases in installments and by taking cash advances.
